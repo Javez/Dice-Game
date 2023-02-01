@@ -1,7 +1,7 @@
 # Simple dice game using DOM
 Simple dice game example published on public Git Page
 
-[Website link](https://javez.github.io/My_Site_CSS/)
+[Website link](https://javez.github.io/Dice_Game_DOM/)
 
 ```
 Used:
